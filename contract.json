@@ -1,0 +1,8 @@
+{
+  "name": "OpenSea Creatures",
+  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+  "image": "https://lh3.googleusercontent.com/gD_xEezJC6pvDrHDIY4k-P-itmxQ-vBcjBZ9E52Y7CS3O1L4yXlxCRXw16a445xMehnUCx-PP_94b3gJYetrWlWUpQc-ujv2jySpuZljw-PlpFXhqcQ1ncw02c9iINJzI87bnVlZKo0DLSmjNTi5Pvl0sVmDY7cf9nuiX_Qp3QduZsK87ASMGK0wsKmhuOLCM7NKH4VN39fj_F1ooq10wzLSQC48X7lA92A82sAmcLt27tgdCnFtGXi4YMJR0Xks7WzL-XkY-wQOy5dB6TgqZVlFcZBctdDqYsCxuaT75RTvAgCPoeGxFaQSLmmg3FtV3lSUMRSOv7arTNie8v02frRpwjw_5sSS6K1zjgy-HBVvPGvI5z-QoNMop3dLK4W-TqQdKY_4WFs5h86XwiKe2bnF6h-9c6RG11oERbPtISnzmh29lrzKPpvqobyQ850WmZiktbjZ5BylT9wJlhDXC4Kx8U2AJhR3SQ8Nnh58c8jRiwqQ5zXhw7cWDN8bDxUrhWh6vrvtx6E1_5XAw6TxfOPvj6EwQ0qtktQCbMGimZFc81zp2g8nrvC4KIIIYp44cL5kC7qaFn3w46Okju0kZojutiMxmAHmICrIV5MXcf0rOLarTxiqMTcNSaeVza63Xcc0xlbVNKjLALr0Dbt2N1G0PqI0yNRxl_zfaW_VFWbaHdYsL5lPgNgzlgk8JoVZxYNe0E8OKtWxtaiHzGkgn2M=s2000-no",
+  "external_link": "https://openseacreatures.io",
+  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "fee_recipient": "0xB0Fe9d010Bc9bdcae93Fe456B67e1cCc4bCD1E9f" # Where seller fees will be paid to.
+}
